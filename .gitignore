@@ -121,5 +121,6 @@ dmypy.json
 *.dbf
 *.csv
 *.pbf
-*.jpeg
-*.jpg
+!Japan_importance_grid*
+!Fujisan_disruption*
+!Fujisan_disruption_hotspot**
